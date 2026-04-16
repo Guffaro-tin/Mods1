@@ -1,0 +1,6 @@
+.gradle/
+build/
+*.jar
+*.ogg
+*.png
+*.json
